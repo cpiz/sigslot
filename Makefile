@@ -7,5 +7,5 @@ LIBS :=
 # 自定义宏, 不须要自行添加 -D
 DEFS +=	DEBUG	\
 
-include ../Makefile.inc
+include ./Makefile.inc
 
